@@ -11,6 +11,7 @@ Emeplos de la corrida del programa en forma paralela:
 <p style="color:cian;">Matriz resultante</p>
 Se puede observar que la memoria compartida fue mas rapido que la memoria distribuida, en ambos casos la secuencia de ejecucion fue arbitraria y las matrices de resultado identicas.
 Emeplos de la corrida del programa en forma secuencial:
+
 ![explicacion2](https://github.com/EleazarPe/MultiplicacionMatrices/assets/71235444/8ee01237-8b91-40f1-8120-e1801406302a)
 <p style="color:red;">Tiempo de corrida</p>
 <p style="color:green;">secuencia de ejecucion.</p>
