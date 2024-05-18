@@ -7,15 +7,16 @@ Como se puede observar se genera un mensaje desde el main, el mensaje esta compu
 
 ## Emeplos de la corrida del programa en forma paralela:
 ![explicacion](https://github.com/EleazarPe/MultiplicacionMatrices/assets/71235444/c13c5b6f-3c36-4bb8-8656-af71a9524add)
-#### Rojo: Tiempo de corrida
-#### Verde: Secuencia de ejecución
-#### Azul: Matriz resultante
+-Rojo: Tiempo de corrida
+-Verde: Secuencia de ejecución
+-Azul: Matriz resultante
 Se puede observar que la memoria compartida fue mas rapido que la memoria distribuida, en ambos casos la secuencia de ejecucion fue arbitraria y las matrices de resultado identicas.
 
 ## Emeplos de la corrida del programa en forma secuencial:
 ![explicacion2](https://github.com/EleazarPe/MultiplicacionMatrices/assets/71235444/8ee01237-8b91-40f1-8120-e1801406302a)
-#### Rojo: Tiempo de corrida
-#### Verde: Secuencia de ejecución
-#### Azul: Matriz resultante
+-Rojo: Tiempo de corrida
+-Verde: Secuencia de ejecución
+-Azul: Matriz resultante
 Se puede observar que la memoria compartida fue mas rapido que la memoria distribuida, en ambos casos la secuencia de ejecucion fue secuencial y las matrices de resultado identicas.
+
 Observacion: al ser matrices aleatorias en cada corrida el tiempo de ejecucion puede variar en cada caso.
