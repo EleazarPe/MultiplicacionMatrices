@@ -10,6 +10,7 @@ Como se puede observar se genera un mensaje desde el main, el mensaje esta compu
 - <span style="color:red">Rojo:</span> Tiempo de corrida
 - <span style="color:green">Verde:</span> Secuencia de ejecución
 - <span style="color:blue">Azul:</span> Matriz resultante
+
 Se puede observar que la memoria compartida fue mas rapido que la memoria distribuida, en ambos casos la secuencia de ejecucion fue arbitraria y las matrices de resultado identicas.
 
 ## Emeplos de la corrida del programa en forma secuencial:
@@ -17,6 +18,7 @@ Se puede observar que la memoria compartida fue mas rapido que la memoria distri
 - <span style="color:red">Rojo:</span> Tiempo de corrida
 - <span style="color:green">Verde:</span> Secuencia de ejecución
 - <span style="color:blue">Azul:</span> Matriz resultante
+
 Se puede observar que la memoria compartida fue mas rapido que la memoria distribuida, en ambos casos la secuencia de ejecucion fue secuencial y las matrices de resultado identicas.
 
 Observacion: al ser matrices aleatorias en cada corrida el tiempo de ejecucion puede variar en cada caso.
